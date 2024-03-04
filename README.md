@@ -7,10 +7,11 @@ Chatty is a real-time chat application crafted with React.js, Tailwind CSS, Node
 
 ## Table of Contents
 
-- [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Configuration](#configuration)
+- [Technologies Used](#technologies-used)
 - [Features](#features)
+- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -26,48 +27,48 @@ Before running the application, make sure you have [Node.js](https://nodejs.org/
 
 2. Navigate to the project directory:
 
-```bash
-cd Realtime-Chat-Application
-```
+   ```bash
+   cd Realtime-Chat-Application
+   ```
 
 3. Install dependencies for both the frontend and backend:
 
-```bash
-cd frontend
-npm install
-```
-
-```bash
-cd ../backend
-npm install
-```
+   ```bash
+   cd frontend
+   npm install
+   ```
+   
+   ```bash
+   cd ../backend
+   npm install
+   ```
 
 ## Configuration
 
 1. Create a .env file in the backend directory and add your MongoDB connection URL:
-```.env
-MONGODB_URI=<your-mongodb-uri>
-```
+   ```.env
+   MONGODB_URI=<your-mongodb-uri>
+   ```
 
 2. Running the Application
 To run the Chatty application, you'll need to start both the frontend and backend servers.
 
 3. Start the frontend server:
 
-```bash
-cd frontend
-npm run dev
-```
+   ```bash
+   cd frontend
+   npm run dev
+   ```
 
 This will start the frontend server and open it in your default web browser.
 Navigate to localhost:5173/login in your web browser to access the login page.
 
 4. Start the backend server:
 
-```bash
-cd ../backend
-npm start
-```
+   ```bash
+   cd ../backend
+   npm start
+   ```
 
 This will start the backend server.
 
@@ -85,3 +86,8 @@ Once both servers are running, you can access the Chatty application in your web
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
