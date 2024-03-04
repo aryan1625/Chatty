@@ -3,18 +3,22 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-* Login
+<h2 align= "center">Login</h2>
 [![Chatty][product-screenshot1]](https://github.com/aryan1625/Chatty/blob/main/frontend/realtimeFrontend/src/assets/Screenshot%202024-03-04%20220407.png)
+<br/>
 
-* Register
+<h2 align= "center">Register</h2>
 [![Chatty][product-screenshot4]](https://github.com/aryan1625/Chatty/blob/main/frontend/realtimeFrontend/src/assets/Screenshot%202024-03-04%20220651.png)
+<br/>
 
-* Set Avatar
+<h2 align= "center">Set Avatar</h2>
 [![Chatty][product-screenshot5]](https://github.com/aryan1625/Chatty/blob/main/frontend/realtimeFrontend/src/assets/Screenshot%202024-03-04%20220711.png)
+<br/>
 
-* Chat
+<h2 align= "center">Chat</h2>
 [![Chatty][product-screenshot2]](https://github.com/aryan1625/Chatty/blob/main/frontend/realtimeFrontend/src/assets/Screenshot%202024-03-04%20220554.png)
 [![Chatty][product-screenshot3]](https://github.com/aryan1625/Chatty/blob/main/frontend/realtimeFrontend/src/assets/Screenshot%202024-03-04%20220624.png)
+<br/>
 
 Chatty is a real-time chat application crafted with React.js, Tailwind CSS, Node.js, Express.js, and Socket.IO. Users can personalize their profiles with avatars and engage in seamless conversations. With its sleek interface and responsive design, Chatty offers an immersive platform for meaningful interactions and community building.
 
